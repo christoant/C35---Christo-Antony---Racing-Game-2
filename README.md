@@ -1,1 +1,2 @@
-# C35---Christo-Antony---Racing-Game-2
+# synchronousBallMovement
+Ball moving synchronously
